@@ -1,0 +1,2 @@
+
+export const SERVICE_KEY = '19c590c8c3fabe271fd59b85643fe7ac7dcc16a0b5c4169921652e39445b2cd8';
